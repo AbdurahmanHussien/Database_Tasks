@@ -1,2 +1,2 @@
 # Database_Tasks
-#solving tasks using oracle sql. 
+# Solving tasks using oracle sql. 
